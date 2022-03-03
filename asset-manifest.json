@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fornt-SinlgePageApp/static/css/main.5740cf87.css",
+    "main.js": "/Fornt-SinlgePageApp/static/js/main.2f086c77.js",
+    "static/js/787.ca05ba49.chunk.js": "/Fornt-SinlgePageApp/static/js/787.ca05ba49.chunk.js",
+    "index.html": "/Fornt-SinlgePageApp/index.html",
+    "main.5740cf87.css.map": "/Fornt-SinlgePageApp/static/css/main.5740cf87.css.map",
+    "main.2f086c77.js.map": "/Fornt-SinlgePageApp/static/js/main.2f086c77.js.map",
+    "787.ca05ba49.chunk.js.map": "/Fornt-SinlgePageApp/static/js/787.ca05ba49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.2f086c77.js"
+  ]
+}
